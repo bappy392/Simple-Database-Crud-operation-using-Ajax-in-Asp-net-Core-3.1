@@ -1,0 +1,296 @@
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\appsettings.json
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\SimpleCrudOperation.exe
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\SimpleCrudOperation.deps.json
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\SimpleCrudOperation.runtimeconfig.json
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\SimpleCrudOperation.runtimeconfig.dev.json
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\SimpleCrudOperation.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\SimpleCrudOperation.pdb
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\SimpleCrudOperation.Views.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\SimpleCrudOperation.Views.pdb
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\SimpleCrudOperation.csproj.CoreCompileInputs.cache
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\SimpleCrudOperation.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\SimpleCrudOperation.RazorAssemblyInfo.cache
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\SimpleCrudOperation.RazorAssemblyInfo.cs
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\SimpleCrudOperation.AssemblyInfoInputs.cache
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\SimpleCrudOperation.AssemblyInfo.cs
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\SimpleCrudOperation.TagHelpers.input.cache
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\SimpleCrudOperation.TagHelpers.output.cache
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\SimpleCrudOperation.RazorCoreGenerate.cache
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\SimpleCrudOperation.RazorTargetAssemblyInfo.cache
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\SimpleCrudOperation.RazorTargetAssemblyInfo.cs
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\SimpleCrudOperation.Views.pdb
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\SimpleCrudOperation.csproj.CopyComplete
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\staticwebassets\SimpleCrudOperation.StaticWebAssets.Manifest.cache
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\staticwebassets\SimpleCrudOperation.StaticWebAssets.xml
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\SimpleCrudOperation.dll
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\SimpleCrudOperation.pdb
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\SimpleCrudOperation.genruntimeconfig.cache
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\SimpleCrudOperation.csprojAssemblyReference.cache
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+D:\ASP\ASP_CORE\HTML&CSS&Jquery\9.Asp-Done\Code\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\appsettings.json
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\SimpleCrudOperation.exe
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\SimpleCrudOperation.deps.json
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\SimpleCrudOperation.runtimeconfig.json
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\SimpleCrudOperation.runtimeconfig.dev.json
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\SimpleCrudOperation.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\SimpleCrudOperation.pdb
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\SimpleCrudOperation.Views.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\SimpleCrudOperation.Views.pdb
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\SimpleCrudOperation.csprojAssemblyReference.cache
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\SimpleCrudOperation.csproj.CoreCompileInputs.cache
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\SimpleCrudOperation.MvcApplicationPartsAssemblyInfo.cache
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\SimpleCrudOperation.RazorAssemblyInfo.cache
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\SimpleCrudOperation.RazorAssemblyInfo.cs
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\SimpleCrudOperation.AssemblyInfoInputs.cache
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\SimpleCrudOperation.AssemblyInfo.cs
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\SimpleCrudOperation.TagHelpers.input.cache
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\SimpleCrudOperation.TagHelpers.output.cache
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\SimpleCrudOperation.RazorCoreGenerate.cache
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\SimpleCrudOperation.RazorTargetAssemblyInfo.cache
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\SimpleCrudOperation.RazorTargetAssemblyInfo.cs
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\SimpleCrudOperation.Views.pdb
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\SimpleCrudOperation.csproj.CopyComplete
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\staticwebassets\SimpleCrudOperation.StaticWebAssets.Manifest.cache
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\staticwebassets\SimpleCrudOperation.StaticWebAssets.xml
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\SimpleCrudOperation.dll
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\SimpleCrudOperation.pdb
+E:\MyYoutube\Lecture\Simple Database Crud operation using Ajax in Asp.net Core 3.1\SimpleCrudOperation\SimpleCrudOperation\obj\Debug\netcoreapp3.1\SimpleCrudOperation.genruntimeconfig.cache
